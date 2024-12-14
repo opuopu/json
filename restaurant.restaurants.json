@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "name": "Wonders Beach",
+  "address": "Wonders Beach Boutique Hotel",
+  "helpLineNumber1": 52520249,
+  "helpLineNumber2": 2606700,
+  "location": {
+    "coordinates": [
+      57.552786469459534,
+      -20.022669612985474
+    ],
+    "type": "Point"
+  },
+  "description": "Mauritius has one of the world’s most vibrant culinary diversity, and it is our duty to amaze your tastebuds continuously. Take a seat at our Restaurant, throw your eyes in the blue of the sea, while exquisite dishes are being presented to you.\nOur chefs skillfully choose the best local ingredients and blend them into gourmet dishes for all tastes. The melting pot of European, Asiatic and African flavors united at the tip of your cutlery.",
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "status": "active",
+  "images": [
+    {
+      "url": "https://bookatable.blr1.digitaloceanspaces.com/restaurant/1731052511644-d8e45bc7a1492495.png",
+      "_id": {
+        "$oid": "672dc3df40099d93f58cbedf"
+      }
+    },
+    {
+      "url": "https://bookatable.blr1.digitaloceanspaces.com/restaurant/1731052511675-2f700d8d321ebf2c.jpg",
+      "_id": {
+        "$oid": "672dc3df40099d93f58cbee0"
+      }
+    },
+    {
+      "url": "https://bookatable.blr1.digitaloceanspaces.com/restaurant/1731052511705-d7d08386a77c0d25.jpg",
+      "_id": {
+        "$oid": "672dc3df40099d93f58cbee1"
+      }
+    },
+    {
+      "url": "https://bookatable.blr1.digitaloceanspaces.com/restaurant/1731052511722-0dad33d8ec90c76b.jpg",
+      "_id": {
+        "$oid": "672dc3df40099d93f58cbee2"
+      }
+    },
+    {
+      "url": "https://bookatable.blr1.digitaloceanspaces.com/restaurant/1731052511743-83546a082a32e570.jpg",
+      "_id": {
+        "$oid": "672dc3df40099d93f58cbee3"
+      }
+    }
+  ],
+  "reviewStatus": true,
+  "sunday": {
+    "openingTime": "07:30",
+    "closingTime": "21:30"
+  },
+  "monday": {
+    "openingTime": "07:30",
+    "closingTime": "21:30"
+  },
+  "tuesday": {
+    "openingTime": "07:30",
+    "closingTime": "21:30"
+  },
+  "wednesday": {
+    "openingTime": "07:30",
+    "closingTime": "21:30"
+  },
+  "thursday": {
+    "openingTime": "07:30",
+    "closingTime": "21:30"
+  },
+  "friday": {
+    "openingTime": "07:30",
+    "closingTime": "21:30"
+  },
+  "saturday": {
+    "openingTime": "07:30",
+    "closingTime": "21:30"
+  },
+  "avgReviews": 4,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-08T07:55:11.779Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T11:13:39.013Z"
+  },
+  "__v": 0
+}]

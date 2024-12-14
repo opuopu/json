@@ -1,0 +1,231 @@
+[{
+  "_id": {
+    "$oid": "670a421a551544f3c9f9b87d"
+  },
+  "user": {
+    "$oid": "66b4467f5d9677db27c700c2"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/category/1728725529835-a3669df9383d6cc4.jpg",
+  "title": "chicken",
+  "restaurant": {
+    "$oid": "670a0a22f4b237f07efa64a7"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-10-12T09:32:10.362Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-12T09:32:10.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc67340099d93f58cbfcb"
+  },
+  "user": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/category/1731053171722-edf70863be648cff.jpg",
+  "title": "Mauritian Speciality",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:06:11.752Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-08T08:06:11.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc68340099d93f58cbfd0"
+  },
+  "user": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/category/1731053187588-588f81461c51eeb5.jpg",
+  "title": "Salads",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:06:27.636Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-08T08:06:27.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc6c740099d93f58cbfd9"
+  },
+  "user": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/category/1731053255532-b92dac705715da68.jpg",
+  "title": "Burgers & Sandwiches",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:07:35.568Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-08T08:07:35.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc70a40099d93f58cbfde"
+  },
+  "user": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/category/1731053322701-b6bab200510d4650.png",
+  "title": "Gajacks",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:08:42.755Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-08T08:08:42.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc72e40099d93f58cbfe7"
+  },
+  "user": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/category/1731053358795-e8c3775960b1ff6a.png",
+  "title": "Pizza",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:09:18.821Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-08T08:09:18.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc75040099d93f58cbfec"
+  },
+  "user": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/category/1731053392311-59e8e6b23c0a6260.jpg",
+  "title": "Pasta",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:09:52.325Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-08T08:09:52.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc77440099d93f58cbff1"
+  },
+  "user": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/category/1731053428443-1516aeda8513bdf4.jpg",
+  "title": "From the sea",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:10:28.468Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-08T08:10:28.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc7da40099d93f58cbff6"
+  },
+  "user": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/category/1731053530760-8c6892ef3f8b8055.jpg",
+  "title": "From the land",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:12:10.791Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-08T08:12:10.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc7eb40099d93f58cbffb"
+  },
+  "user": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/category/1731053547745-a2a9b7da84adad49.jpg",
+  "title": "Dessert",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:12:27.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-08T08:12:27.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6746dc908a0778485fa6e5e3"
+  },
+  "user": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/category/1732697232608-4db592aa3650022f.jpg",
+  "title": "chicken",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-27T08:47:12.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-27T08:47:12.670Z"
+  },
+  "__v": 0
+}]

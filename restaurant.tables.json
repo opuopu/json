@@ -1,0 +1,400 @@
+[{
+  "_id": {
+    "$oid": "672dc51240099d93f58cbf42"
+  },
+  "tableNo": "1",
+  "tableName": "",
+  "seats": 1,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:00:18.826Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:08:32.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc51c40099d93f58cbf48"
+  },
+  "tableNo": "2",
+  "tableName": "",
+  "seats": 1,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:00:28.227Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:08:36.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc53040099d93f58cbf4e"
+  },
+  "tableNo": "3",
+  "tableName": "",
+  "seats": 2,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:00:48.914Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:08:44.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc53840099d93f58cbf54"
+  },
+  "tableNo": "4",
+  "tableName": "",
+  "seats": 2,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:00:56.775Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:08:57.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc54140099d93f58cbf5a"
+  },
+  "tableNo": "5",
+  "tableName": "",
+  "seats": 3,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:01:05.384Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:09:02.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc54a40099d93f58cbf60"
+  },
+  "tableNo": "6",
+  "tableName": "",
+  "seats": 3,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:01:14.406Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:09:06.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc55440099d93f58cbf66"
+  },
+  "tableNo": "7",
+  "tableName": "",
+  "seats": 4,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:01:24.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:09:12.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc55c40099d93f58cbf6c"
+  },
+  "tableNo": "8",
+  "tableName": "",
+  "seats": 4,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:01:32.743Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:09:20.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc56540099d93f58cbf72"
+  },
+  "tableNo": "9",
+  "tableName": "",
+  "seats": 5,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:01:41.549Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:09:25.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672dc57240099d93f58cbf78"
+  },
+  "tableNo": "10",
+  "tableName": "",
+  "seats": 5,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:01:54.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:09:29.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f40340099d93f58cc164"
+  },
+  "tableNo": "11",
+  "tableName": "",
+  "seats": 6,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:09:39.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:09:39.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f40a40099d93f58cc16a"
+  },
+  "tableNo": "12",
+  "tableName": "",
+  "seats": 6,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:09:46.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:09:46.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f41040099d93f58cc170"
+  },
+  "tableNo": "13",
+  "tableName": "",
+  "seats": 7,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:09:52.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:09:52.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f41640099d93f58cc176"
+  },
+  "tableNo": "14",
+  "tableName": "",
+  "seats": 7,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:09:58.858Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:09:58.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f41e40099d93f58cc17c"
+  },
+  "tableNo": "15",
+  "tableName": "",
+  "seats": 8,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:10:06.639Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:10:06.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f42440099d93f58cc182"
+  },
+  "tableNo": "16",
+  "tableName": "",
+  "seats": 8,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:10:12.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:10:12.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f42a40099d93f58cc188"
+  },
+  "tableNo": "17",
+  "tableName": "",
+  "seats": 9,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:10:18.267Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:10:18.267Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f43040099d93f58cc18e"
+  },
+  "tableNo": "18",
+  "tableName": "",
+  "seats": 9,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:10:24.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:10:24.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f43740099d93f58cc194"
+  },
+  "tableNo": "19",
+  "tableName": "",
+  "seats": 10,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:10:31.050Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:10:31.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f43d40099d93f58cc19a"
+  },
+  "tableNo": "20",
+  "tableName": "",
+  "seats": 10,
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "isDeleted": false,
+  "isBooked": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:10:37.727Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:10:37.727Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,1026 @@
+[{
+  "_id": {
+    "$oid": "672dc82340099d93f58cc00b"
+  },
+  "category": {
+    "$oid": "672dc67340099d93f58cbfcb"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731327266834-307a6eda1cd16771.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "CHICKEN CURRY SERVE WITH FARATA ,TOMATO SALAD, CHILLI PICKLE AND RICE",
+  "name": "CHICKEN CURRY ",
+  "price": 750,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-08T08:13:23.895Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:14:27.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f4f240099d93f58cc1af"
+  },
+  "category": {
+    "$oid": "672dc67340099d93f58cbfcb"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731327218016-b3798b0d12a19f9b.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "FISH VINDAYE SERVE WITH LENTILS FRICASSER ,CUCUMBER SALAD",
+  "name": "FISH VINDAYE",
+  "price": 750,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:13:38.046Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:13:38.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f57e40099d93f58cc1d1"
+  },
+  "category": {
+    "$oid": "672dc67340099d93f58cbfcb"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731327358880-156b89cb7b6ac34d.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "SHRIMP ROUGAILLE SERVE WITH GRAIN OF THE DAY ,SALAD AND VEGETABLES",
+  "name": "SHRIMP ROUGAILLE",
+  "price": 850,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:15:58.913Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:15:58.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f5c540099d93f58cc1e2"
+  },
+  "category": {
+    "$oid": "672dc67340099d93f58cbfcb"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731327429858-9f85babd3754cc03.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "BEEF STIR FRY CHINESE STYLE WITH SESAME SEEDS ,BOK CHOY AND STEAM NOODLES\n",
+  "name": "BEEF STIR FRY",
+  "price": 750,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:17:09.884Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:17:09.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f62840099d93f58cc1f3"
+  },
+  "category": {
+    "$oid": "672dc68340099d93f58cbfd0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731327528175-d7cdf8733a69af32.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "HALF COOK TUNA FISH SERVE WITH HARD BOIL EGG ,SALAD AND CITRUS DRESSING\n",
+  "name": "HALF COOK TUNA",
+  "price": 500,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:18:48.202Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:18:48.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f66a40099d93f58cc204"
+  },
+  "category": {
+    "$oid": "672dc68340099d93f58cbfd0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731327594210-606951dbe765d828.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "COLD CUTS HAMS FOR 02 PERSONS SERVE WITH LOCAL PICKLES\n",
+  "name": "COLD CUTS HAMS",
+  "price": 1000,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:19:54.244Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:19:54.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f6ae40099d93f58cc215"
+  },
+  "category": {
+    "$oid": "672dc68340099d93f58cbfd0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731327662273-be389798b4fb926c.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "SMOKED MARLIN AND PALM HEART SALAD",
+  "name": "SMOKED MARLIN",
+  "price": 700,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:21:02.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:21:02.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6731f70340099d93f58cc226"
+  },
+  "category": {
+    "$oid": "672dc68340099d93f58cbfd0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731327747287-e48dbd33e052cbc4.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "ROSACE OF TOMATO AND MOZARELLA WITH PESTO SAUCE AND SALAD",
+  "name": "ROSACE OF TOMATO",
+  "price": 700,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-11T12:22:27.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T12:22:27.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e24340099d93f58cc2a5"
+  },
+  "category": {
+    "$oid": "672dc68340099d93f58cbfd0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731387971736-291a01457b7d15e3.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "OCTOPUS SALAD WITH LEMON CONFIT AND GREEN PAPAYA SALAD",
+  "name": "OCTOPUS SALAD",
+  "price": 700,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:06:11.773Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:06:11.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e28240099d93f58cc2b6"
+  },
+  "category": {
+    "$oid": "672dc68340099d93f58cbfd0"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731388034820-4be584f3294f560b.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "CAESAR SALAD WONDERS STYLE WITH CHICKEN, BOILD EGG ,BACON AND SALAD",
+  "name": "CAESAR SALAD",
+  "price": 650,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:07:14.849Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:07:14.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e2c640099d93f58cc2c7"
+  },
+  "category": {
+    "$oid": "672dc6c740099d93f58cbfd9"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731388102721-7712dd733b6205a1.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "CLUB SANDWHICH WITH CHICKEN, BACON, TOMATO, EGG AND FRENCH FRIES",
+  "name": "CLUB SANDWHICH",
+  "price": 590,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:08:22.758Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:08:22.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e30b40099d93f58cc2d8"
+  },
+  "category": {
+    "$oid": "672dc6c740099d93f58cbfd9"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731388171214-86f1f0cf8bab198f.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "BEEF BURGER WITH BACON, CHEESE, TOMATO, EGG, ONION COMPOTE AND FRENCH FRIES\n",
+  "name": "BEEF BURGER",
+  "price": 590,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:09:31.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:09:31.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e34440099d93f58cc2e9"
+  },
+  "category": {
+    "$oid": "672dc6c740099d93f58cbfd9"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731388228664-2ff71d232e030c2a.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "CHICKEN BURGER WITH CHEESE ,TOMATO, EGG, ONION COMPOTE AND FRENCH FRIES\n",
+  "name": "CHICKEN BURGER",
+  "price": 590,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:10:28.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:10:28.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e38c40099d93f58cc2fa"
+  },
+  "category": {
+    "$oid": "672dc70a40099d93f58cbfde"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731388300355-d83a111cba8ac89e.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "CRISPY CALAMARI WITH AIOLI SAUCE",
+  "name": "CRISPY CALAMARI",
+  "price": 350,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:11:40.389Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:11:40.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e41440099d93f58cc321"
+  },
+  "category": {
+    "$oid": "672dc70a40099d93f58cbfde"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731388436786-b1cec9c4fff68a9d.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "FISH GOURGONETTE AND SPICY SAUCE",
+  "name": "FISH GOURGONETTE",
+  "price": 300,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:13:56.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:13:56.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e45840099d93f58cc332"
+  },
+  "category": {
+    "$oid": "672dc70a40099d93f58cbfde"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731388504690-eab7a1c8c56a6fa9.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "VEGETABLE SAMOUSSA AND CHATINI TOMATO",
+  "name": "VEGETABLE SAMOUSSA",
+  "price": 200,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:15:04.745Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:15:04.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e4b040099d93f58cc343"
+  },
+  "category": {
+    "$oid": "672dc70a40099d93f58cbfde"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731388765697-42e5c82148b708c4.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "FRENCH FRIES AND POTATO WEDGES",
+  "name": "FRENCH FRIES AND POTATO WEDGES",
+  "price": 250,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:16:32.946Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:19:25.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e54440099d93f58cc354"
+  },
+  "category": {
+    "$oid": "672dc75040099d93f58cbfec"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731388740378-5777a5f4e8639c71.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "SEAFOOD TAGLIATELLE WITH PARMESAN SHAVES\n",
+  "name": "SEAFOOD TAGLIATELLE",
+  "price": 870,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:19:00.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:19:00.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e5a640099d93f58cc376"
+  },
+  "category": {
+    "$oid": "672dc75040099d93f58cbfec"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731388838371-da1a55622037cb30.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "SPAGHETHI WITH ARABIATTA SAUCE ( OLIVES, TOMATO, AND CHILLI )\n",
+  "name": "SPAGHETHI WITH ARABATTA SAUCE",
+  "price": 700,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:20:38.402Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:20:38.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e5db40099d93f58cc387"
+  },
+  "category": {
+    "$oid": "672dc75040099d93f58cbfec"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731388891505-d6c012668116278d.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "PENNE ALFREDO (CREAM AND MUSHROOM)\n",
+  "name": "PENNE ALFREDO",
+  "price": 600,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:21:31.526Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:21:31.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e61240099d93f58cc398"
+  },
+  "category": {
+    "$oid": "672dc72e40099d93f58cbfe7"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731388946541-32ccd8456ea46948.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "PIZZA WITH TOMATO SAUCE AND CHEESE",
+  "name": "PIZZA WITH TOMATO SAUCE AND CHEESE",
+  "price": 450,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:22:26.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:22:26.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e65740099d93f58cc3a9"
+  },
+  "category": {
+    "$oid": "672dc72e40099d93f58cbfe7"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731389015223-934faff2f12b8e73.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "PIZZA HAWAIIEN WITH CHICKEN HAM AND PINEAPPLE\n",
+  "name": "PIZZA HAWAIIEN",
+  "price": 500,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:23:35.261Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:23:35.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e69240099d93f58cc3ba"
+  },
+  "category": {
+    "$oid": "672dc72e40099d93f58cbfe7"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731389074767-72a4f5adfd22f61b.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "PIZZA WITH SMOKE MARLIN AND ONION",
+  "name": "PIZZA WITH SMOKE MARLIN AND ONION",
+  "price": 550,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:24:34.790Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:24:34.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e6e340099d93f58cc3cb"
+  },
+  "category": {
+    "$oid": "672dc72e40099d93f58cbfe7"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731389155400-35f55ffb67410713.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "PIZZA CHEF WITH SEAFOOD\n",
+  "name": "PIZZA CHEF WITH SEAFOOD",
+  "price": 600,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:25:55.441Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:25:55.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e74740099d93f58cc3dc"
+  },
+  "category": {
+    "$oid": "672dc77440099d93f58cbff1"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731389255258-3bd9d66632fa41b0.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "FISH OF THE DAY SERVE WITH SALADS AND FRENCH FRIES\n",
+  "name": "FISH OF THE DAY",
+  "price": 850,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:27:35.299Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:27:35.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e79040099d93f58cc3ed"
+  },
+  "category": {
+    "$oid": "672dc77440099d93f58cbff1"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731389328362-4b33618b2e7fa6af.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "WHOLE GRILLED FISH SERVED WITH FRENCH FRIES, SALAD MIX AND LEMON BUTTER (35 MINS)",
+  "name": "WHOLE GRILLED FISH",
+  "price": 1700,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:28:48.391Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:28:48.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e7e340099d93f58cc3fe"
+  },
+  "category": {
+    "$oid": "672dc77440099d93f58cbff1"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731389411338-f3817d5d608e52f9.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "GRILL PRAWN SERVE WITH LEMON BUTTER SAUCE AND SAFFRON RICE\n",
+  "name": "GRILL PRAWN",
+  "price": 2500,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:30:11.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:30:11.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e87f40099d93f58cc40f"
+  },
+  "category": {
+    "$oid": "672dc77440099d93f58cbff1"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731389567294-6126ace88ee7c710.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "SEAFOOD PLATTER, HALF LOBSTER ,PRAWN, MUSSEL, CALAMARY, FISH, AND SHRIMPS ( FOR 2 PERSONS)\n",
+  "name": "SEAFOOD PLATTER FOR 2",
+  "price": 4400,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:32:47.327Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:32:47.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732e97740099d93f58cc420"
+  },
+  "category": {
+    "$oid": "672dc77440099d93f58cbff1"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731389815693-3c936879b92a0351.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "GRILL LOBSTER PLATTER SERVE WITH VEGETABLES AND SAFFRON RICE",
+  "name": "GRILL LOBSTER",
+  "price": 3200,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:36:55.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:36:55.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732ea3840099d93f58cc431"
+  },
+  "category": {
+    "$oid": "672dc7da40099d93f58cbff6"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731390008191-314afb51356dcea7.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "GRILL BEEF TENDERLOIN SERVE WITH FRENCH FRIES SALAD AND PEPPER SAUCE",
+  "name": "GRILL BEEF TENDERLOIN",
+  "price": 1500,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:40:08.223Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:40:08.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732eab640099d93f58cc442"
+  },
+  "category": {
+    "$oid": "672dc7da40099d93f58cbff6"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731390134795-29964626f535a33c.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "GRILL CHICKEN BREAST MARINATED WITH CAJUN SPICE SERVE WITH FRENCH FRIES SALAD\n",
+  "name": "GRILL CHICKEN BREAST",
+  "price": 850,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:42:14.830Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:42:14.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6732eaf840099d93f58cc453"
+  },
+  "category": {
+    "$oid": "672dc7da40099d93f58cbff6"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731390200571-c05c79d5499a9960.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "GRILL LAMB CHOP SERVE WITH SALAD,FRENCH FRIES AND BBQ SAUCE",
+  "name": "GRILL LAMB CHOP",
+  "price": 1700,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-12T05:43:20.604Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-12T05:43:20.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6734c5c240099d93f58cc500"
+  },
+  "category": {
+    "$oid": "672dc7eb40099d93f58cbffb"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731511746684-41625cfefeb80981.png",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "DESSERT OF THE DAY",
+  "name": "DESSERT OF THE DAY",
+  "price": 450,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-13T15:29:06.721Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T15:29:06.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6734c60b40099d93f58cc511"
+  },
+  "category": {
+    "$oid": "672dc7eb40099d93f58cbffb"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731511819098-dbd0bc1583b3d84a.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "CHOCOLATE MOELLEUX AND VANILLA ICE CREAM",
+  "name": "CHOCOLATE MOELLEUX",
+  "price": 490,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-13T15:30:19.127Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T15:30:19.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6734c68540099d93f58cc522"
+  },
+  "category": {
+    "$oid": "672dc7eb40099d93f58cbffb"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731511941008-1fb98187e51724e9.jpg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "BRAISED PAPAYA IN STAR ANIS SYRUP AND SERVE WITH LEMON SORBET",
+  "name": "BRAISED PAPAYA",
+  "price": 370,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-13T15:32:21.050Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T15:32:21.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6734c6c940099d93f58cc533"
+  },
+  "category": {
+    "$oid": "672dc7eb40099d93f58cbffb"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731512009321-fae8bbb49a4da5f2.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "BANANA FLAMBE WITH LOCAL RUM AND VANILLA ICE CREAM\n",
+  "name": "BANANA FLAMBE",
+  "price": 480,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-13T15:33:29.351Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T15:33:29.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6734c71240099d93f58cc544"
+  },
+  "category": {
+    "$oid": "672dc7eb40099d93f58cbffb"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731512082498-236571e58158ae4b.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "BOL OF TROPICAL OR BOL OF ICE CREAM\n",
+  "name": "SORBET / ICE CREAM",
+  "price": 450,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-13T15:34:42.521Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T15:34:42.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6734c75b40099d93f58cc555"
+  },
+  "category": {
+    "$oid": "672dc7eb40099d93f58cbffb"
+  },
+  "image": "https://bookatable.blr1.digitaloceanspaces.com/menu/1731512155781-8f32140aa5d6635c.jpeg",
+  "restaurant": {
+    "$oid": "672dc3df40099d93f58cbede"
+  },
+  "description": "FRESH FRUIT PLATER AND LEMON SORBET",
+  "name": "FRUIT PLATTER",
+  "price": 550,
+  "owner": {
+    "$oid": "672dc1ab40099d93f58cbec0"
+  },
+  "available": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-11-13T15:35:55.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-13T15:35:55.800Z"
+  },
+  "__v": 0
+}]
